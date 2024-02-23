@@ -1,3 +1,5 @@
+// git commit -am'changes background'
+// $ git push
 function setup() {
   createCanvas(400, 400);
 }
